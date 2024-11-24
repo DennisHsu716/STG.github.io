@@ -6,11 +6,12 @@ This topic focuses on utilizing Python's Pygame library to design a classic airc
     import random
     import os
 ## Usage
-![image](https://github.com/DennisHsu716/project5.github.io/blob/main/project3/image/1.png)
+![image](https://github.com/DennisHsu716/STG.github.io/blob/main/img/1.png)
 
 
+Use direction key to control the plane, and use space key to shoot.
 
-![image](https://github.com/DennisHsu716/project5.github.io/blob/main/project3/image/1.gif)
+![image](https://github.com/DennisHsu716/STG.github.io/blob/main/img/1.gif)
 
 ## About the future plans
 Additional functions and special effects can be incorporated into the game to enhance the user experience (UX).
