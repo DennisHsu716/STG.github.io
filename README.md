@@ -35,7 +35,8 @@ python main.py
 ## 📁 Folder Structure
 ```
 STG.github.io/
-├── assets/               # images and sounds
+├── img/                  # images
+├── sound/                # sounds
 ├── main.py               # main game logic
 └── README.md             # project description
 ```
