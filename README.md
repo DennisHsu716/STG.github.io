@@ -24,7 +24,7 @@ import os
 ## 🚀 Usage Instructions  
 1. Run the game script:
 ```
-python shooter_game.py
+python main.py
 ```
 2. Controls:
 * ```← ↑ ↓ →``` — Move the aircraft
@@ -34,9 +34,9 @@ python shooter_game.py
 
 ## 📁 Folder Structure
 ```
-shooter_game/
+STG.github.io/
 ├── assets/               # images and sounds
-├── shooter_game.py       # main game logic
+├── main.py               # main game logic
 └── README.md             # project description
 ```
 
