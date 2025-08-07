@@ -29,11 +29,6 @@ python shooter_game.py
 2. Controls:
 * ← ↑ ↓ → — Move the aircraft
 * Spacebar — Fire bullets  
-![image](https://github.com/DennisHsu716/STG.github.io/blob/main/img/1.png)
-
-
-Use direction key to control the plane, and use space key to shoot.
-
 ![image](https://github.com/DennisHsu716/STG.github.io/blob/main/img/1.gif)
 
 ## 📁 Folder Structure
