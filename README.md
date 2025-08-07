@@ -28,7 +28,8 @@ python shooter_game.py
 ```
 2. Controls:
 * ```← ↑ ↓ →``` — Move the aircraft
-* ```Spacebar``` — Fire bullets  
+* ```Spacebar``` — Fire bullets
+
 ![image](https://github.com/DennisHsu716/STG.github.io/blob/main/img/1.gif)
 
 ## 📁 Folder Structure
